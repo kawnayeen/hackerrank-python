@@ -3,7 +3,6 @@
 # https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem?h_r=profile
 
 
-
 if __name__ == '__main__':
     n = int(input())
     listOne = list(map(int, input().split()))
